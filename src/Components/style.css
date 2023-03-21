@@ -1,0 +1,70 @@
+.BgImage { 
+    background-image: url("https://images.pexels.com/photos/4585185/pexels-photo-4585185.jpeg?auto=compress&cs=tinysrgb&w=1600");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+}
+.navbar{
+    background-color: gray
+}
+.navbar a{ 
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    height: 100%;
+    padding: 12px;
+    
+}
+
+.navbar li :hover {
+    background-color: #828582;
+    
+}
+
+.navbar li {
+    color: white;
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    padding: 14px 38px;
+    text-decoration: none;
+}
+ .homeText {
+
+    text-align: center;
+    color: white;
+    padding-top: 40vh;
+    padding-bottom: 40vh;
+    background-image: url("https://images.pexels.com/photos/4585185/pexels-photo-4585185.jpeg?auto=compress&cs=tinysrgb&w=1600");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .Portfolio {
+
+    text-align: center;
+    padding-top: 40vh;
+    padding-bottom: 40vh;
+    background-color: rgb(189, 230, 173);
+    
+
+ }
+.aboutText {
+
+    text-align: center;
+    padding-top: 40vh;
+    padding-bottom: 40vh;
+    background-color: lightblue;
+
+}
+.footer {
+    text-align: center;
+    color: white;
+    background-color: #828582;
+    padding-top: 3vh;
+    padding-bottom: 2vh;
+    
+}
+
