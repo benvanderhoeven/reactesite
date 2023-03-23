@@ -7,7 +7,7 @@
      
 }
 .navbar{
-    background-color: gray
+    background-color: rgb(28, 27, 27)
 }
 .navbar a{ 
     align-items: center;
@@ -45,24 +45,34 @@
  .Portfolio {
 
     text-align: center;
+    color: white;
     padding-top: 40vh;
     padding-bottom: 40vh;
-    background-color: rgb(189, 230, 173);
+    background-image: url("https://wallup.net/wp-content/uploads/2016/03/09/343665-digital_art-abstract-fractal-mirrored-colorful.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
     
 
  }
 .aboutText {
 
     text-align: center;
+    color: white;
     padding-top: 40vh;
     padding-bottom: 40vh;
-    background-color: lightblue;
+    background-image: url("https://i.pinimg.com/originals/a7/d4/21/a7d42187678026d06e49a2b16e166e1a.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 
 }
 .footer {
     text-align: center;
     color: white;
-    background-color: #828582;
+    background-color: rgb(28, 27, 27);
     padding-top: 3vh;
     padding-bottom: 2vh;
     
